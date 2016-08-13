@@ -1,5 +1,8 @@
 # ATS SPC - Groupe C - Dispositif 2
 
-* Adam
-* Omar
-* Suliman
+## Authors
+
+* SALEM ELTAORQY Ahmed
+* MIANDE MBAIKOUL Bertrand
+* YAGHI Omar
+* ADAM Sakhr
