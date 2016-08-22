@@ -1,5 +1,4 @@
 <script language="JavaScript">
-
     var time = new Date()
     var cookieexpire = new Date(time.getTime() + 90 * 24 * 60 * 60 * 1000); //cookie expires in 90 days
     var timeclock = document.cookie;
@@ -25,6 +24,3 @@
         tzoffset = "0";
     setthecookie("tzoffset", tzoffset);
 </script>
-
-
-

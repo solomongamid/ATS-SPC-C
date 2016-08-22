@@ -2,10 +2,10 @@
 
 ## Authors
 
-* SALEM ELTAORQY Ahmed
-* MIANDE MBAIKOUL Bertrand
-* YAGHI Omar
-* ADAM Sakhr
+- SALEM ELTAORQY Ahmed
+- MIANDE MBAIKOUL Bertrand
+- YAGHI Omar
+- ADAM Sakhr
 
 ## Introduction
 
@@ -13,7 +13,6 @@ First Stage of the login and user manger panel had been completed with interface
 
 ## Setup
 
-Now for the whatever been done please see the demo in this link:
-http://adamsakhr.com/sakhradam/login.php
+Now for the whatever been done please see the demo in this link: <http://adamsakhr.com/sakhradam/login.php>
 
 (username and password are: `admin`)
