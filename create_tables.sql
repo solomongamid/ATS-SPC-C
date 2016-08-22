@@ -146,5 +146,3 @@ INSERT INTO punchlist VALUES ('break', '#FF9900', 0);
 INSERT INTO punchlist VALUES ('lunch', '#0000FF', 0);
 
 # --------------------------------------------------------
-
-
